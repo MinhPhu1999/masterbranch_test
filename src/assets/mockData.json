@@ -1,30 +1,18 @@
 [
 	{
-		"title": "Moday Event",
-		"description": "aaaaaaaaaaa",
+		"title": "Event Test1 ",
+		"description": "Metting",
 		"label": "indigo",
-		"day": 1737997200000,
-		"id": 1740213766565
+		"day": 1738602000000,
+		"id": 1740303222788,
+		"eventType": "event"
 	},
 	{
-		"title": "Moday Event",
-		"description": "aaaaaaaaaaa",
-		"label": "red",
-		"day": 1738688400000,
-		"id": 1740213773853
-	},
-	{
-		"title": "Moday Event",
-		"description": "aaaaaaaaaaa",
-		"label": "indigo",
-		"day": 1737997200000,
-		"id": 1740213788757
-	},
-	{
-		"title": "Moday Evenfffft",
-		"description": "aaaaaaaaaaaggguy",
-		"label": "indigo",
-		"day": 1737997200000,
-		"id": 1740213850070
+		"title": "Event Test2",
+		"description": "Metting",
+		"label": "green",
+		"day": 1738602000000,
+		"id": 1740304246111,
+		"eventType": "event"
 	}
 ]
